@@ -1,5 +1,6 @@
+![banner](https://wallpapercave.com/wp/wp9221921.png)
 <h1 align="center">Hi, I'm Andres Henriquez</h1>
-<h3 align="center">An enthusiast full-stack developer, coming from a medical science career from Chile</h3>
+<h3 align="center">An enthusiast full-stack developer, coming from a medical science background in Chile</h3>
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
