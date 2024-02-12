@@ -8,7 +8,7 @@
 <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
 
 
-- 🌱 I’m currently learning **Web Components, Vanilla JavaScript, Browsers and everything I can from web development**
+- 🌱 I’m currently learning **Golang, Linux and the command line**
 
 - 👨‍💻 All of my projects are available at [https://andreshenriquez.me](https://andreshenriquez.me)
 
